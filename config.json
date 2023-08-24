@@ -1,0 +1,5 @@
+{
+  "input_video": "input.mp4",
+  "face_image": "face.jpg",
+  "output_video:": "output.mp4"
+}
